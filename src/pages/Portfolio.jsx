@@ -111,7 +111,7 @@ I’m skilled in building scalable, responsive, and user-friendly web applicatio
 My goal is to become a professional Python Full Stack Developer and create secure, modern, and high-performance web applications.
 <br />
 <a
-  href="/public/pdffiles/Balaji-FullStack-Resume.pdf" target="self"
+  href="/pdffiles/Balaji-FullStack-Resume.pdf" target="self"
   download
   className="btn btn-custom mt-3"
   style={{
@@ -345,4 +345,5 @@ My goal is to become a professional Python Full Stack Developer and create secur
 }
 
 export default Portfolio;
+
 
