@@ -29,7 +29,7 @@ function Portfolio() {
     img: "/images/Screenshot 2025-10-29 165912.png",
     title: "Machine Learning Based Anomaly Detection in Network Traffic",
     desc: "This study introduces a lightweight anomaly detection framework optimized for IoT environments with limited computational resources.",
-    link: "/src/images/OUTPUT 2.mp4"
+    link: "/images/OUTPUT 2.mp4"
   },
 
   
@@ -54,7 +54,7 @@ function Portfolio() {
     img: "/images/Screenshot 2025-10-30 131336.png",
     title: "Heart Disease Detection Using Machine Learning",
     desc: "ML algorithms like Support Vector Machines (SVM), Decision Trees, and Logistic Regression are trained on datasets to identify patterns and predict a patient's likelihood of having heart disease.",
-    link: "/src/pdffiles/HEART DISEASE DETECTION USING MACHINE LEARNING.pdf"
+    link: "/pdffiles/HEART DISEASE DETECTION USING MACHINE LEARNING.pdf"
   },
   
   
@@ -345,3 +345,4 @@ My goal is to become a professional Python Full Stack Developer and create secur
 }
 
 export default Portfolio;
+
