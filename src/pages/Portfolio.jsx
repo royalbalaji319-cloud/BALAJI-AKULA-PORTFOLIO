@@ -210,7 +210,7 @@ My goal is to become a professional Python Full Stack Developer and create secur
         {
           name: "Activate Galaxy Project Completion",
           img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLlsyEc--PUWEm1UjEPQW8a7g7hUlUyzE4Q&s",
-          pdf: "/public/pdffiles/AKULA BALAJI - certificate.pdf",
+          pdf: "/pdffiles/AKULA BALAJI - certificate.pdf",
         },
         {
           name: "Python Fullstack Certificate",
@@ -345,5 +345,6 @@ My goal is to become a professional Python Full Stack Developer and create secur
 }
 
 export default Portfolio;
+
 
 
