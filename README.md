@@ -1,16 +1,77 @@
-# React + Vite
+#  Balaji Akula – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built using React and Vite.
 
-Currently, two official plugins are available:
+##  Live Website
+ https://balaji-akula-portfolio.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  About Me
+I am a passionate Python Full Stack Developer with strong knowledge in:
+- Python
+- Flask
+- HTML, CSS, JavaScript
+- React
+- SQL
+- Machine Learning Basics
 
-## React Compiler
+##  Tech Stack
+- Frontend: React, HTML, CSS
+- Backend Knowledge: Flask
+- Deployment: Vercel
+- Version Control: Git & GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Featured Projects
 
-## Expanding the ESLint configuration
+###  Heart Disease Detection
+Machine learning model predicting heart disease using KNN.
+## Tech Stack: 
+Python, 
+NumPy,
+Pandas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###  Anomaly Detection in Network Traffic
+Lightweight ML-based intrusion detection system.
+## Tech Stack: 
+Python,
+Knn-Algorithm
+
+###  Student Management System
+Flask-based CRUD web application.
+Live: https://student-management-flask-x15g.onrender.com/
+##  Tech Stack
+- Python
+- Flask
+- HTML
+- CSS
+- SQLite
+- Git & GitHub
+
+###  URL Safety Checker
+A web-based URL classification system built using Python and Flask that checks whether a given URL is SAFE, UNSAFE, or INVALID.
+Live: https://url-saftey-checker.onrender.com/
+## Tech Stack
+- Python
+- Flask
+- HTML
+- CSS
+- SQLite
+- Git & GitHub
+
+### Netflix Clone
+A responsive Netflix-inspired web application built using React and modern web technologies.
+Live: https://your-netflix-clone-link.vercel.app
+This project replicates the Netflix UI design and layout with responsive components and smooth user experience.
+It showcases frontend development skills including reusable components, API integration, and modern UI styling.
+## Tech Stack
+- React
+- HTML
+- CSS
+- JavaScript
+- Vite
+- Git & GitHub
+- Vercel (Deployment)
+
+##  Contact Me
+Email: royalsbalaji143@gmail.com  
+LinkedIn: https://linkedin.com/in/akula-balaji-616392354  
+GitHub: https://github.com/royalbalaji319-cloud
