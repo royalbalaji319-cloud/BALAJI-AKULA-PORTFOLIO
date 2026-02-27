@@ -56,6 +56,13 @@ function Portfolio() {
     desc: "ML algorithms like Support Vector Machines (SVM), Decision Trees, and Logistic Regression are trained on datasets to identify patterns and predict a patient's likelihood of having heart disease.",
     link: "/pdffiles/HEART DISEASE DETECTION USING MACHINE LEARNING.pdf"
   },
+   {
+    id: 7,
+    img: "https://lh7-us.googleusercontent.com/UPeJEgQP9Tn70M5ykt31IITu6RxO6SWbkD8dP3wQv5bx2AT8OVbrqWho6xH0fQDIhfw5nYDBWdJhbF6VdVvGUUrZ_opzr3gTbuk3cD24tgbiWi5LpUBXkgImn47_fFg5lCoYgHm3WDXXW63Sz9A6ahE",
+    title: "Weather Forecast Web Application",
+    desc: "A real-time weather forecasting web application built using React that displays live weather information including temperature, humidity, wind speed, and forecast details.",
+    link: "https://weather-app-git-main-royalbalaji319-clouds-projects.vercel.app/"
+  },
   
   
 ];
@@ -345,6 +352,7 @@ My goal is to become a professional Python Full Stack Developer and create secur
 }
 
 export default Portfolio;
+
 
 
 
