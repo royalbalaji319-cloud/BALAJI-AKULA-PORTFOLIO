@@ -22,7 +22,7 @@ function Portfolio() {
     img: "https://sitechecker.pro/wp-content/uploads/2024/02/website-safety-checker.png",
     title: "URL Safety Checker",
     desc: "Built a web-based URL classification system using Python and Flask. ",
-    link: "https://url-saftey-checker.onrender.com/"
+    link: "https://url-saftey-checker.vercel.app/"
   },
   {
     id: 1,
@@ -352,6 +352,7 @@ My goal is to become a professional Python Full Stack Developer and create secur
 }
 
 export default Portfolio;
+
 
 
 
